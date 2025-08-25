@@ -6,10 +6,11 @@
     "window.zoomLevel": 1,
 
     // Editor
-    "editor.fontFamily": "Ubuntu Mono",
+    "editor.fontFamily": "Comic Code",
     "editor.inlineSuggest.enabled": true,
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.tabSize": 4,
+    "editor.fontSize": 15,
     "editor.smoothScrolling": true,
     "editor.minimap.enabled": true,
     "editor.minimap.scale": 2,
@@ -26,6 +27,8 @@
     "editor.rulers": [80],
     "editor.linkedEditing": true,
     "editor.formatOnSave": false,
+    "editor.lineNumbers": "relative",
+    "scm.defaultViewMode": "tree",
     "C_Cpp.intelliSenseEngine": "disabled",
     "workbench.colorTheme": "Gruvbox Material Dark",
     "workbench.iconTheme": "material-icon-theme",
@@ -35,7 +38,6 @@
     "workbench.localHistory.enabled": false,
     "workbench.list.smoothScrolling": true,
     "workbench.startupEditor": "none",
-    "scm.defaultViewMode": "tree",
     "workbench.colorCustomizations": {
         "editorRuler.foreground": "#80808010"
     },
@@ -47,7 +49,7 @@
 
     // Terminal
     "terminal.integrated.defaultProfile.linux": "zsh",
-    "terminal.integrated.fontFamily": "Ubuntu Mono",
+    "terminal.integrated.fontFamily": "Comic Code",
     "terminal.integrated.cursorBlinking": true,
     "terminal.integrated.smoothScrolling": true,
     "terminal.integrated.minimumContrastRatio": 1,
@@ -57,7 +59,6 @@
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
-    "files.autoSave": "afterDelay",
     "explorer.compactFolders": false,
     "search.useIgnoreFiles": true,
     "security.workspace.trust.enabled": false,
