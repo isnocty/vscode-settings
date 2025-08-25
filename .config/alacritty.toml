@@ -1,18 +1,19 @@
 [font]
-size = 14.0
+size = 10
 
 [font.bold]
-family = "Ubuntu Mono"
+family = "Fira Code Medium"
 style = "Bold"
 
 [font.bold_italic]
-family = "Ubuntu Mono"
+family = "Fira Code Medium"
 style = "Bold Italic"
 
 [font.italic]
-family = "Ubuntu Mono"
+family = "Fira Code Medium"
 style = "Italic"
 
 [font.normal]
-family = "Ubuntu Mono"
+family = "Fira Code Medium"
 style = "Regular"
+
